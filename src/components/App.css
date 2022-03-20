@@ -1,0 +1,20 @@
+.box{
+    background-color: grey;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.body{
+    background-color: rgb(35, 170, 211);
+    padding: 100px;
+}
+
+.btn{
+    background-color: rgb(35, 67, 211);
+    color: white;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
